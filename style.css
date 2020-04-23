@@ -1,10 +1,5 @@
 p {
-    color: blue,
-}
-
-p {
-    text-shadow: 2px 2px #1c87c9; 
-}
-p {
+    color: blue;
+    text-shadow: 2px 2px #1c87c9;
     font-size: 24pt;
 }
